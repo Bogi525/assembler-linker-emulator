@@ -23,3 +23,9 @@ Developed as part of a university course on system software, this project includ
 - Simulates registers, memory, and instruction execution
 - Provides optional memory dump
 
+## Technologies
+- C++
+- Flex & Bison
+- GNU Make
+- Developed in Visual Studio Code on a Linux virtual machine
+
